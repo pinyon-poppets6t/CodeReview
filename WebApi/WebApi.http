@@ -1,0 +1,6 @@
+@InterviewCodeReview_HostAddress = http://localhost:5195
+
+GET {{InterviewCodeReview_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
